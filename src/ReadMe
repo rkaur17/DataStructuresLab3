@@ -1,0 +1,6 @@
+Ramneet Kaur
+
+I started out with first checking if the strings given are in a sorted order. Then in minDeletionSize, the indices
+that are not in order are returned, and if there are any errors, then -1 is returned. Then I checked the length of
+the strings again and if the indices are in a sorted order, if they are then they got added to the index list. Once
+all the indices are in order, then an empty set is returned.
